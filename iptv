@@ -1,45 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RECORDTV" tvg-logo=RECORD" group-title="Canais | Abertos", RECORD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RECORD" https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo=SBT" group-title="Canais | Abertos", SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais | Abertos",SBT HD
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w2059181245_b1000000.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo=BAND" group-title="Canais | Abertos", BAND
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="BAND SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="Canais | Abertos",BAND SP FHD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w33485952.m3u8
 
-#EXTINF:-1 tvg-id="REDETV" tvg-logo=REDETV" group-title="Canais | Abertos", REDETV
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Canais | Abertos",REDE TV FHD
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w804933384_b2186037.m3u8
 
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo=REDE BRASIL" group-title="Canais | Abertos", REDE BRASIL
+#EXTINF:-1 tvg-id="RedeBrasil" tvg-name="REDE BRASIL " tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Canais | Abertos",REDE BRASIL 
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w74695190.m3u8
 
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo=RECORD NEWS" group-title="Canais | Abertos", RECORD NEWS
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="RECORD NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="Canais | Notícias",RECORD NEWS FHD
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w597122727.m3u8
 
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo=TV CULTURA" group-title="Canais | Abertos", TV CULTURA
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV CULTURA FHD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.png" group-title="Canais | Abertos",TV CULTURA FHD
 https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w1002449271.m3u8
 
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo=TV GAZETA" group-title="Canais | Abertos", TV GAZETA
+#EXTINF:-1 tvg-id="AE" tvg-name="TV GAZETA SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="Canais | Abertos",TV GAZETA SP FHD
 http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w660581251.m3u8
 
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-logo=TV BRASIL" group-title="Canais | Abertos", TV BRASIL
+#EXTINF:-1 tvg-id="TVBrasil" tvg-name="TV BRASIL " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Abertos",TV BRASIL 
 https://video-rvd-pr-gw-1.rnp.br/live/ocp(t(FmjlBj7jbuM)r(fVR9ug)a(LbmLIg)p(d(2xc)k(q8U)m(CaE_YHPwPdtsF7Eja2mN2w)n(a(2b2g9A)s(elM)'a(7F-4JQ)s(Mu0)))s(s(T3o)b(PmAW0yoVt-dph4tI_4AJ1Tgv800XXD4fCF7UERKhJNhOjiF9rjpQsk8YduajmpXEWluNxxewh0wga5k6aA)'s(3Mo)b(CbK0Nh8w3A4gqZhl4GeXXoelJ8vDTmnIWNsNOrvQTcnPhYgbcC8ILCV8NcTgXSskUmB0AHoY-xyKQGTkpQDWpMhCxpnxlR2JcO2JOGwk)'s(byI)b(WnEMJQWs))m(0))/1_index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL RETRÔ" tvg-logo=CANAL RETRÔ" group-title="Canais | Abertos", CANAL RETRÔ
+#EXTINF:-1 tvg-id="CANAL RETRÔ" tvg-name="CANAL RETRÔ" tvg-logo="CANAL RETRÔ" group-title="Canais | Abertos",CANAL RETRÔ 
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TV CLÁSSICOS" tvg-logo=TV CLÁSSICOS" group-title="Canais | Abertos", TV CLÁSSICOS
+#EXTINF:-1 tvg-id="TV CLÁSSICOS" tvg-name="TV CLÁSSICOS" tvg-logo="TV CLÁSSICOS" group-title="Canais | Abertos",TV CLÁSSICOS
 http://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w1527223979.m3u8
 
-#EXTINF:-1 tvg-id="RETRÔ CARTOON" tvg-logo=RETRÔ CARTOON" group-title="Canais | Abertos", RETRÔ CARTOON
+#EXTINF:-1 tvg-id="RETRÔ CARTOON" tvg-name="RETRÔ CARTOON tvg-logo=RETRÔ CARTOON" group-title="Canais | Abertos", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1393518369.m3u8
 
-#EXTINF:-1 tvg-id="TV TUPI" tvg-logo=TV TUPI" group-title="Canais | Abertos", TV TUPI
+#EXTINF:-1 tvg-id="TV TUPI" tvg-name="TV TUPI tvg-logo=TV TUPI" group-title="Canais | Abertos", TV TUPI
 https://stmv1.srvif.com/redetupi/redetupi/chunklist_w1782139140.m3u8
 
-#EXTINF:-1 tvg-id="TV MANCHETE" tvg-logo=TV MANCHETE" group-title="Canais | Abertos", TV MANCHETE
+#EXTINF:-1 tvg-id="TV MANCHETE" tvg-name="TV MANCHETE tvg-logo=TV MANCHETE" group-title="Canais | Abertos", TV MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w922998660.m3u8
+
+
+
+
+
+
+
 
 
 
